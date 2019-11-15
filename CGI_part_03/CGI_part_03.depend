@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573821674 source:c:\users\alicia\desktop\cgi_part_03\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<utility>
+	<unordered_map>
+	<conio.h>
+
